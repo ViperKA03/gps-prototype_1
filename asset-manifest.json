@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gps_prototype_1/static/css/main.31d6cfe0.css",
+    "main.js": "/gps_prototype_1/static/js/main.29c19a4c.js",
+    "static/js/453.6d7acdfd.chunk.js": "/gps_prototype_1/static/js/453.6d7acdfd.chunk.js",
+    "static/media/1000_F_205634657_WlNw0jTd4rDdpQmXyXT95l8nFjzpdrh0.jpg": "/gps_prototype_1/static/media/1000_F_205634657_WlNw0jTd4rDdpQmXyXT95l8nFjzpdrh0.1d18418357983e42e158.jpg",
+    "index.html": "/gps_prototype_1/index.html",
+    "main.29c19a4c.js.map": "/gps_prototype_1/static/js/main.29c19a4c.js.map",
+    "453.6d7acdfd.chunk.js.map": "/gps_prototype_1/static/js/453.6d7acdfd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.29c19a4c.js"
+  ]
+}
